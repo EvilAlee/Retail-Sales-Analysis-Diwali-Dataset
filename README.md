@@ -146,14 +146,4 @@ The analysis shows that businesses can significantly improve sales by targeting 
 * Target high-performing regions
 * Promote top product categories for better conversion
 
----
-
-## 🔮 Future Improvements
-
-* Build interactive dashboard (Streamlit)
-* Add predictive analysis (sales forecasting)
-* Use real-world datasets
-
----
-
 ⭐ If you like this project, give it a star!
